@@ -1,12 +1,17 @@
 * {
   font-family: Helvetica, sans-serif;
+  text-align: center;
 }
 
 .top,
-h2.sub
+#sub-heading
 {
   color: White;
   background-image: url("../the-flatiron-building.png");
+}
+
+nav {
+  color: White;
 }
 
 /*C:\codeacademy\projects\git_practice\excursion\resources\css */
