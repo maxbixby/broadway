@@ -2,8 +2,9 @@
   font-family: Helvetica, sans-serif;
 }
 
-
-h1 {
+.top,
+h2
+{
   color: White;
-  background-image: url("./resources/the-flatiron-building.png");
+  background-image: url("/resources/the-flatiron-building.png");
 }
